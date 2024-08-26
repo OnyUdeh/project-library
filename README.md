@@ -1,2 +1,2 @@
-# project-libraryc
+# project-library
 A small Library app.
